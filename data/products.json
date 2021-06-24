@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Samsung Galaxy S21 Ultra 5G",
+        "price": 999.99,
+        "image": { "fields": { "file": { "url": "../images/product-1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Samsung Galaxy Note20 Ultra 5G",
+        "price": 1099.99,
+        "image": { "fields": { "file": { "url": "../images/product-2.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Samsung Galaxy A71 5G",
+        "price": 599.99,
+        "image": { "fields": { "file": { "url": "../images/product-3.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "iPhone 12 Pro Max",
+        "price": 1099.99,
+        "image": { "fields": { "file": { "url": "../images/product-4.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "iPhone 12",
+        "price": 879.79,
+        "image": { "fields": { "file": { "url": "../images/product-5.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "iphone SE",
+        "price": 449.89,
+        "image": { "fields": { "file": { "url": "../images/product-6.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Google Pixel 4a",
+        "price": 349.99,
+        "image": { "fields": { "file": { "url": "../images/product-7.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Google Pixel 4a 5G",
+        "price": 449.99,
+        "image": { "fields": { "file": { "url": "../images/product-8.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Google Pixel 5",
+        "price": 699.99,
+        "image": { "fields": { "file": { "url": "../images/product-9.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Samsung Galaxy Watch3 Titanium",
+        "price": 439.99,
+        "image": { "fields": { "file": { "url": "../images/product-10.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Samsung Galaxy Watch Active2",
+        "price": 129.99,
+        "image": { "fields": { "file": { "url": "../images/product-11.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Samsung Galaxy Watch Active",
+        "price": 129.99,
+        "image": { "fields": { "file": { "url": "../images/product-12.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "iPhone Watch Series 6",
+        "price": 399.99,
+        "image": { "fields": { "file": { "url": "../images/product-13.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "iPhone Watch SE",
+        "price": 279.89,
+        "image": { "fields": { "file": { "url": "../images/product-14.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "iPhone Watch Series 3",
+        "price": 199.99,
+        "image": { "fields": { "file": { "url": "../images/product-15.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "ipad Pro",
+        "price": 799.99,
+        "image": { "fields": { "file": { "url": "../images/product-16.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "17" },
+      "fields": {
+        "title": "ipad Air",
+        "price": 599.99,
+        "image": { "fields": { "file": { "url": "../images/product-17.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "18" },
+      "fields": {
+        "title": "Samsung Galaxy Tab s7",
+        "price": 649.99,
+        "image": { "fields": { "file": { "url": "../images/product-18.jpg" } } }
+      }
+    }
+  ]
+}
