@@ -512,7 +512,7 @@ section {
   display: block;
   width: 100%;
   max-width: 600px;
-  height: 100%;
+  min-height: 229px;
   margin: 0 auto;
   border-radius: 20px;
 }
